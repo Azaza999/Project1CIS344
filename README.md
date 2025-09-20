@@ -14,7 +14,7 @@ The repository contains the following key files:
 * **`Project1-Bookstore.mwb`**: The MySQL Workbench model file, which can be opened to view and modify the database schema.
 * **`README.md`**: This file.
 * **`Script.sql`**: The SQL script for creating the database schema and populating it with sample data.
-* **`Hand-Drawn Diagram.png`**: A hand-drawn Chen diagram providing a visual representation of the database relationships.
+* **`Hand-Drawn Diagram.jpg`**: A hand-drawn Chen diagram providing a visual representation of the database relationships.
 
 ---
 
